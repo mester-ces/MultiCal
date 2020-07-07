@@ -14,7 +14,6 @@ def yellow() :
     YELLOW = "\033[1;33m"
     stdout.write(YELLOW)
 
-
 #Color Verde
 
 def green() :
@@ -32,14 +31,12 @@ def bold() :
 def blue() :
     BLUE = "\033[1;34m"
     stdout.write(BLUE)
+
 #Morado
 
 def purple() :
     PURPLE = "\033[1;35m"
     stdout.write(PURPLE)
-
-
-
 
 #Resetear
 
